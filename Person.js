@@ -1,5 +1,3 @@
-
-
 class Person {
     constructor(name, age, gender, occupation) {
         this.name = name;
